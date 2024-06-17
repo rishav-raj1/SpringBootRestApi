@@ -20,6 +20,7 @@ public class MyController {
 //        return "this is home page";
 //    }
 
+
     //get the courses
 // for mvc  -  @RequestMapping(path="/courses",method = RequestMethod.GET)
 
